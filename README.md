@@ -42,9 +42,21 @@ The system detects lanes and obstacles, and performs safe lane changes during au
 Developed an autonomous driving system capable of track following, obstacle avoidance, and autonomous parking.
 
 
-### Architecture
+### System Architecture
 
-Sensor (Camera / LiDAR) → Sensing (YOLO) → Decision Making (FSM) → Control → Vehicle (UART)
+Sensor  
+(Camera / LiDAR)  
+      ↓  
+Perception  
+(YOLO Detection)  
+      ↓  
+Decision Making  
+(FSM)  
+      ↓  
+Control  
+      ↓  
+Actuation  
+(UART)
 
 ---
 
