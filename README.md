@@ -44,7 +44,7 @@ Developed an autonomous driving system capable of track following, obstacle avoi
 
 ### Architecture
 
-Sensor (Camera / LiDAR) -> Sensing (YOLO) -> Decision Making (FSM) -> Control -> Vehicle
+Sensor (Camera / LiDAR) → Sensing (YOLO) → Decision Making (FSM) → Control → Vehicle (UART)
 
 ---
 
