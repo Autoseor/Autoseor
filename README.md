@@ -44,6 +44,7 @@ Developed an autonomous driving system capable of track following, obstacle avoi
 
 ### System Architecture
 
+```
 Sensor  
 (Camera / LiDAR)  
       ↓  
@@ -57,7 +58,7 @@ Control
       ↓  
 Actuation  
 (UART)
-
+```
 ---
 
 ## Research
