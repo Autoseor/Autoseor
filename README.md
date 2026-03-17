@@ -34,15 +34,15 @@ I have implemented autonomous driving logic for mini electric vehicles, includin
 
 ## Projects
 
-### FSM-based Lane Change System  
+### 1. FSM-based Lane Change System  
 Implemented an autonomous lane change and return algorithm using a Finite State Machine (FSM).  
 The system detects lanes and obstacles, and performs safe lane changes using an FSM-based decision algorithm.
 
-### Autonomous Driving System Architecture  
+### 2. Autonomous Driving System Architecture  
 Developed an autonomous driving system capable of track following, obstacle avoidance, and autonomous parking.
 
 
-### System Architecture
+### 3. Architecture
 
 ```
 Sensor  
